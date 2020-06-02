@@ -6,7 +6,7 @@ attr_accessor :artist
 
 end
 
-class artist
+class Artist
 attr_accessor :name
 
 end
